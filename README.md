@@ -14,12 +14,12 @@ I'm a Data Scientist at Assent with 5+ years of experience in data roles. I turn
 
 | Project | What it does |
 | --- | --- |
-| [House Price Prediction](https://github.com/RiteshPardeshi1/Project-Multiple-Linear-Regression-House-Price-) | Multiple linear regression with dummy encoding, scaling, OLS and VIF |
-| [E-commerce Customer Analytics](https://github.com/RiteshPardeshi1/Ecommerce-statistics-project) | End-to-end statistics project on simulated customer data |
-| [Customer Analytics Mini Project](https://github.com/RiteshPardeshi1/Statistics-for-data-science-Mini-customer-project) | Descriptive statistics, outliers, skewness and correlation |
-| [Men's Tennis Grand Slam Analysis](https://github.com/RiteshPardeshi1/Tennis-Data-Analysis) | Data cleaning and analysis of Grand Slam champions |
+| [House Price Prediction](https://github.com/RiteshPardeshi1/House-Price-Prediction-Multiple-Linear-Regression) | Multiple linear regression with dummy encoding, scaling, OLS and VIF |
+| [E-commerce Customer Analytics](https://github.com/RiteshPardeshi1/Ecommerce-Customer-Analytics-Statistics) | End-to-end statistics project on simulated customer data |
+| [Customer Analytics Mini Project](https://github.com/RiteshPardeshi1/Customer-Analytics-Statistics-Mini-Project) | Descriptive statistics, outliers, skewness and correlation |
+| [Men's Tennis Grand Slam Analysis](https://github.com/RiteshPardeshi1/Mens-Tennis-Grand-Slam-Analysis) | Data cleaning and analysis of Grand Slam champions |
 | [Exercise Energy Expenditure Analysis](https://github.com/RiteshPardeshi1/Exercise-Energy-Expenditure-Analysis) | Data profiling and cleaning of calorie expenditure data |
-| [Simple Linear Regression](https://github.com/RiteshPardeshi1/Simple-Linear-Regression) | Predicting sales from TV advertising |
+| [Sales Prediction with Simple Linear Regression](https://github.com/RiteshPardeshi1/Sales-Prediction-Simple-Linear-Regression) | Predicting sales from TV advertising |
 
 ## 🛠️ Tech Stack
 
