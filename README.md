@@ -1,14 +1,16 @@
 # Hi, I'm Ritesh Pardeshi 👋
 
-### Data Scientist | Pune, India
+### Data Intelligence Specialist at Assent | Pune, India
 
-I'm a Data Scientist at Assent with 5+ years of experience in data roles. I turn raw data into decisions using Python, SQL and statistics, and I'm currently deepening my machine learning and statistics foundations in public through the notebooks in this profile.
+I'm a Data Intelligence Specialist at Assent with 5+ years of experience in data roles. I turn raw data into insight using Python, SQL and statistics.
 
-## 🔭 What I'm Working On
+I'm on a mission to learn Data Science, AI and Machine Learning, and I'm building my machine learning and statistics foundations in public through the notebooks in this profile.
 
-- Building machine learning models: simple and multiple linear regression
-- Statistics for data science: distributions, hypothesis testing and sampling
-- Data analysis with Pandas, NumPy, Matplotlib and Seaborn
+## 🎯 My Learning Mission
+
+- Data Science: statistics, data analysis and visualisation
+- Machine Learning: simple and multiple linear regression, with more models to come
+- AI: building the foundations step by step
 
 ## 🚀 Featured Projects
 
